@@ -33,12 +33,12 @@ This project aims to:
 ## 🛠️ Tools & Tech Stack
 
 | Category        | Tools/Libraries |
-|----------------|-----------------|
+|---------------- |-----------------|
 | Language        | Python          |
 | Data Handling   | Pandas, NumPy   |
 | Viz             | Matplotlib, Seaborn |
 | Modeling        | scikit-learn    |
-| Deployment (opt)| Streamlit       |
+| Deployment      | Streamlit       |
 | Misc            | Git, GitHub     |
 
 ---
